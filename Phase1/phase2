@@ -1,0 +1,21 @@
+University Management System Project Description 🎓
+The University Management System is a database project designed to manage key information related to students, professors, courses, and scholarships. It uses SQL to implement various database operations, including:
+
+1. DDL (Data Definition Language) 🛠️
+Purpose: Defines the structure of the database.
+Operations:
+CREATE TABLE: Creates tables (e.g., students, professors, courses, scholarships).
+ALTER TABLE: Modifies existing tables (e.g., adding foreign keys, changing column types).
+DROP TABLE: Deletes tables.
+2. DML (Data Manipulation Language) 📝
+Purpose: Manages the data within the database.
+Operations:
+INSERT: Adds new records into tables.
+UPDATE: Modifies existing data.
+DELETE: Removes records.
+SELECT: Retrieves data for analysis.
+3. DQK (Data Querying Knowledge) 🔍
+Purpose: Queries the database to extract meaningful data.
+Operations:
+Use of SELECT statements with conditions, joins, and aggregations to gather insights.
+Data analysis for reports like student enrollments, course details, and scholarships.
